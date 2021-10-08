@@ -1,1 +1,1 @@
-# daibeties_model
+# Daibetes
